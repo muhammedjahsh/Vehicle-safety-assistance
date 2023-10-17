@@ -1,2 +1,2 @@
-# Vehicle-safety-assitance
+# Vehicle-safety-assistance
 Artificial Intelligence project
